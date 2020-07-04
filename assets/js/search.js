@@ -116,7 +116,7 @@ $(document).ready(function () {
 
     if (parseInt(startYear)) {
       //add the date infor to the URL
-      startYear = startYear + +"0101";
+      startYear = startYear + "0101";
 
       //add date info to url
       newURL = newURL + "&begin_date=" + startYear;
