@@ -51,7 +51,7 @@ $(document).ready(function () {
         if (NYTData.response.docs[i].headline != "null") {
           console.log(NYTData.response.docs[i].headline.main);
           $("#articleWell-" + i).append(
-            "<h4>" + NYTData.response.docs[i].headline.main + "</h4>"
+            "<h3>" + NYTData.response.docs[i].headline.main + "</h3>"
           );
         }
         if (
@@ -101,6 +101,10 @@ $(document).ready(function () {
 
   $(submitBtn).on("click", function () {
     console.log("Btn works");
+    $("#Vector").css("fill", "orange");
+    // $("Vector_3").css("fill", "black");
+    // $("Vector_4").css("fill", "black");
+    // $("Vector-9").css("fill", "black");
     $("#search-outcomes").css("display", "block");
     let searchTerm = $("#search").val().trim();
 
