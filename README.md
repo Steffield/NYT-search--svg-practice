@@ -1,6 +1,6 @@
-# NYT-search--svg-practice
+# NYT-Search--Svg-Animation-Practice
 
-Practice SVG animation with older new york times search application
+Practice SVG animation in a simple New York Times search application.
 
 ## Table of Content
 
@@ -20,7 +20,7 @@ It's a front-end only application using the New York Times api, jQuery, HTML, CS
 
 ## Deployed Link
 
-The deployed link to gh-pages: <a href="https://steffield.github.io/NYT-search--svg-practice">NYT SVG App</a>.
+The deployed link to gh-pages: <a href="https://steffield.github.io/NYT-search--svg-practice/">NYT SVG App</a>.
 
 ![](NYT-svg.gif)
 
