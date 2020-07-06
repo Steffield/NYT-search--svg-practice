@@ -22,7 +22,7 @@ It's a front-end only application using the New York Times api, jQuery, HTML, CS
 
 The deployed link to gh-pages: <a href="https://steffield.github.io/NYT-search--svg-practice">NYT SVG App</a>.
 
-![]()
+![](NYT-svg.gif)
 
 ## Questions
 
